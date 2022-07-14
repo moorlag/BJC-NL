@@ -1,20 +1,20 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: Beauty and Joy
+linkTitle: Docentenmaterialen
+summary: Alle ondersteuningsmaterialen voor BJOC-NL! 📊
 date: '2021-01-24'
 type: book
 tags:
   - current
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.png" >}}
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Materialen op deze pagina
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
+- Aan de slag met {{<hl>}}BJOC{{</hl>}} in het Nederlands.
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
