@@ -11,7 +11,7 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: '#Curussen'
+  url: 'www.bjoc.nl'
   label: Aan de slag!
   icon_pack: fas
   icon: user-graduate
@@ -28,5 +28,5 @@ advanced:
 
 Aan de slag met [Beauty and Joy of Computing](https://BJOC-nl.nl/)!
 
-Docentenmaterialen vind je hieronder
+Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <!--<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
