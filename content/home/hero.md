@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: The Beauty and Joy of Computing
 hero_media: teacher.png
 design:
   background:
@@ -11,8 +11,8 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: '#courses'
-  label: Explore our courses
+  url: '#Curussen'
+  label: Aan de slag!
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -26,8 +26,7 @@ advanced:
 
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Aan de slag met [Beauty and Joy of Computing](https://BJOC-nl.nl/)!
 
-Introduce your courses here.
-
+Docentenmaterialen vind je hieronder
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>

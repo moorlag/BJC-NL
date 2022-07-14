@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Materialen
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+Hieronder een overzicht van alle materialen en curussen:
