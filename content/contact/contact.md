@@ -15,24 +15,24 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
   email: test@example.org
-  appointment_url: 'https://calendly.com'
+  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: comments
       icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+      name: Naar het forum!
+      link: 'forum.ieni.org'
 
   # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #    captcha: false
 
 design:
   columns: '1'

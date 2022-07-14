@@ -11,7 +11,7 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: www.bjoc.nl
+  url: https://www.bjoc.nl
   label: Aan de slag!
   icon_pack: fas
   icon: user-graduate
