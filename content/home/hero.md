@@ -16,8 +16,8 @@ cta:
   icon_pack: fas
   icon: user-graduate
 cta_alt:
-  url: https://snap.berkeley.edu/
-  label: Ga naar Snap!
+  url: /course/BJOC-NL/_index.md
+  label: Docentenmaterialen!
   icon_pack: fas
   icon: user-graduate
 cta_note:
@@ -29,8 +29,7 @@ advanced:
 <br>
 
 Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱
-<br>
-Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
+
 <br>
 
 <br>
