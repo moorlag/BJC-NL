@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Hieronder een overzicht van alle materialen en curussen:
+Hieronder een overzicht van alle materialen en cursussen:

@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: The Beauty and Joy of Computing
-hero_media: alonzo.svg
+hero_media:  <img src="alonzo.svg"  width="300" height="300">
 design:
   background:
     gradient_angle: 0
