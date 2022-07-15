@@ -20,13 +20,13 @@ cta_alt:
   label: alt1
 cta_note:
   label: note2
-advanced: 
+advanced:
   css_class: fullscreen
 ---
 
 <br>
 
-The Beauty and Joy of Computing. Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/). Beide cursussen zijn werken volledig in de browser en maken gebruik van [de Snap! programmeeromgeving](https://snap.berkeley.edu/).
+Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/). 
 <br>
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <br>
