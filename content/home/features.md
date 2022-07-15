@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: ✨ Teach _anything_ with
+title: Waarom BJOC?
+subtitle: ✨  _Omdat_
 feature:
-  - icon: chalkboard-teacher
+  - icon: fa-language
     icon_pack: fas
-    name: Slides
+    name: Nederlandstalig
     description:
-  - icon: video
+  - icon: fa-gift
     icon_pack: fas
-    name: Video
+    name: 'Hard' fun
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Blokprogrammeren
     description:
 ---
