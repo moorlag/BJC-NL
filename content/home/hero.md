@@ -18,6 +18,8 @@ cta:
 cta_alt:
   url: https://snap.berkeley.edu/
   label: Ga naar Snap!
+  icon_pack: fas
+  icon: user-graduate
 cta_note:
   label: BJOC-nl is mede mogelijk gemaakt door vakvereniging i&i
 advanced:
@@ -26,7 +28,7 @@ advanced:
 
 <br>
 
-Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱<br>BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/).
+Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱
 <br>
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <br>
