@@ -26,7 +26,7 @@ advanced:
 
 <br>
 
-Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/).
+Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱<br>BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/).
 <br>
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <br>
