@@ -18,9 +18,9 @@ cta:
 cta_alt:
   url: www.nu.nl
   label: alt1
-cta_note: 
+cta_note:
   label: note2
-advanced: note3
+advanced: 
   css_class: fullscreen
 ---
 
