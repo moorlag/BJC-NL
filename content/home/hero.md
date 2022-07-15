@@ -15,22 +15,22 @@ cta:
   label: Aan de slag!
   icon_pack: fas
   icon: user-graduate
-cta_alt:
-  url:
-  label:
-cta_note:
-  label:
-advanced:
+cta_alt: alt0
+  url: www.nu.nl
+  label: alt1
+cta_note: note1
+  label: note2
+advanced: note3
   css_class: fullscreen
 ---
 
 <br>
 
-The Beauty and Joy of Computing. Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. Het is 'hard' fun en geeft daardoor veel voldoening. De cursus kan individueel gevolgd worden en in een groep. BJOC-NL heeft pair programming ingebouwd in het programma. Met tweetallen aan de slag met 1 computer. Deze pagina heeft als doel om alle ondersteunende materialen te verzamelen en daar waar nodig ook vertaald aan te bieden. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/). Beide cursussen zijn werken volledig in de browser en maken gebruik van [de Snap__!__ programmeeromgeving](https://snap.berkeley.edu/).
+The Beauty and Joy of Computing. Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/). Beide cursussen zijn werken volledig in de browser en maken gebruik van [de Snap! programmeeromgeving](https://snap.berkeley.edu/).
 <br>
 
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <br>
-<br>
+
 <br>
 <!--<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
