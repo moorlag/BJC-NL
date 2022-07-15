@@ -15,7 +15,7 @@ cta:
   label: Aan de slag!
   icon_pack: fas
   icon: user-graduate
-cta_alt: alt0
+cta_alt: 
   url: www.nu.nl
   label: alt1
 cta_note: note1
