@@ -28,7 +28,6 @@ advanced: note3
 
 The Beauty and Joy of Computing. Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱. BJOC-NL is gebaseerd op [BJC van de Universiteit van Berkley](http://bjc.berkeley.edu/). Beide cursussen zijn werken volledig in de browser en maken gebruik van [de Snap! programmeeromgeving](https://snap.berkeley.edu/).
 <br>
-
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
 <br>
 
