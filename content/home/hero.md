@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: The Beauty and Joy of Computing
-hero_media: teacher.png
+hero_media: alonzo.svg
 design:
   background:
     gradient_angle: 0
@@ -27,6 +27,8 @@ advanced:
 <br>
 
 Aan de slag met [Beauty and Joy of Computing](https://BJOC-nl.nl/)!
+<br>
 
 Meer [docentenmateriaal vind je hier](/course/BJOC-NL/_index.md).
+<br>
 <!--<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->

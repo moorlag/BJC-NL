@@ -18,11 +18,16 @@ tags:
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
-## Program overview
+## Waarom Snap! als eerste programmeertaal?
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+De kracht van leren programmeren in Snap! is dat je erna snel een tweede (en derde en vierde) programeertaal kunt leren. Het voordeel van Snap! is dat het visueel is en je niet (snel) vastloopt op de syntact zoals haakjes, punten, puntkomma's en komma's. Die komen bij andere talen veel voor maar niet bij Snap!.
 
-## Courses in this program
+Deze pagina is er om docenten snel op weg te helpen met het onderwijzen van Snap! en The Beauty and Joy of Computing. Daarom zijn deze bronnen verzameld en vertaald.
+
+## Handige links
+[snap.berkeley.edu/run](snap.berkeley.edu/run) – Snap! programming environment (the most important link)
+[Snap! handleiding](https://snap.berkeley.edu/snap/help/SnapManual.pdf) - Engelstalige referentiegids
+
 
 {{< list_children >}}
 
