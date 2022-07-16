@@ -32,7 +32,7 @@ Deze pagina is er om docenten snel op weg te helpen met het onderwijzen van Snap
 ## Snap! Interface
 Er zitten in de cursus meerdere verwijzingen naar de Snap! interface. Met onderstaande overzicht zie je de namen van de verschillende velden.
 
-![Interface](/static/Snap_interface_nl.png)
+![Interface](Snap_interface_nl.png)
 
 
 {{< list_children >}}
