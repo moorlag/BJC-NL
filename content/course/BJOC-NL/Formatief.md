@@ -1,5 +1,5 @@
 ---
-title: Sociale Gevolgen van Computing
+title: Formatief?
 date: '2021-01-01'
 type: book
 weight: 20
