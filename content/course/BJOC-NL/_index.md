@@ -25,8 +25,13 @@ De kracht van leren programmeren in Snap! is dat je erna snel een tweede (en der
 Deze pagina is er om docenten snel op weg te helpen met het onderwijzen van Snap! en The Beauty and Joy of Computing. Daarom zijn deze bronnen verzameld en vertaald.
 
 ## Handige links
-[snap.berkeley.edu/run](snap.berkeley.edu/run) – Snap! programming environment (the most important link)
+[snap.berkeley.edu/run](snap.berkeley.edu/run) – Snap! openen
 [Snap! handleiding](https://snap.berkeley.edu/snap/help/SnapManual.pdf) - Engelstalige referentiegids
+
+## Snap! Interface
+Er zitten in de cursus meerdere verwijzingen naar de Snap! interface. Met onderstaande overzicht zie je de namen van de verschillende velden.
+
+![](/media/Snap_interface_nl.png)
 
 
 {{< list_children >}}
