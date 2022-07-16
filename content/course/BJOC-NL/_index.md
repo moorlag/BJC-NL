@@ -26,12 +26,13 @@ Deze pagina is er om docenten snel op weg te helpen met het onderwijzen van Snap
 
 ## Handige links
 [snap.berkeley.edu/run](snap.berkeley.edu/run) – Snap! openen
+
 [Snap! handleiding](https://snap.berkeley.edu/snap/help/SnapManual.pdf) - Engelstalige referentiegids
 
 ## Snap! Interface
 Er zitten in de cursus meerdere verwijzingen naar de Snap! interface. Met onderstaande overzicht zie je de namen van de verschillende velden.
 
-![](/media/Snap_interface_nl.png)
+![Interface](/static/Snap_interface_nl.png)
 
 
 {{< list_children >}}
