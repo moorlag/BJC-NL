@@ -22,9 +22,9 @@ In het materiaal wordt er dieper ingegaan op deze (sociale) thema's. In ieder ho
 - Computers & oorlog
 - Computers & werk
 
-Bij al deze onderwerpen is ons doel prediking te vermijden; we zoeken naar alternatieve gezichtspunten. We gaan er bijvoorbeeld niet vanuit dat piraterij van auteursrechtelijk beschermde materiaal verkeerd is. xxx aangezien veel studenten het doen, proberen we eerlijke perspectieven te ontlokken over waarom het goed zou kunnen zijn, en overwegen alternatieve manieren om artiesten en schrijvers te ondersteunen. Zowel de studentenpagina's als de docentenhandleiding verwijzen naar provocerende lezingen over elk onderwerp.
+Bij alle onderwerpen gaan we niet prediking. We geven  alternatieve gezichtspunten. We gaan er bijvoorbeeld niet vanuit dat piraterij van auteursrechtelijk beschermde materiaal verboden is. Omdat het veel voorkomt geven wij het eerlijke perspectief. We dragen daarbij zoveel mogelijk alternatieven aan.
 
-Over het algemeen hopen we studenten optimistisch te laten voelen over de voordelen van technologie, maar ook klaar om kritisch na te denken over specifieke technologie. We herinneren hen er ook aan dat de beslissingen over hoe een nieuwe technologie wordt gebruikt door mensen worden genomen, inclusief zijzelf als ze een carrière in de informatica nastreven, dus ze mogen zich niet hulpeloos voelen tegenover een veronderstelde technologische noodzaak.
+Over het algemeen hopen wij dat leerlingen optimistisch kijken nar de voordelen van technologie.  te laten voelen over de voordelen van technologie, maar ook klaar om kritisch na te denken over specifieke technologie. We herinneren hen er ook aan dat de beslissingen over hoe een nieuwe technologie wordt gebruikt door mensen worden genomen, inclusief zijzelf als ze een carrière in de informatica nastreven, dus ze mogen zich niet hulpeloos voelen tegenover een veronderstelde technologische noodzaak.
 
 ## Blown To Bits
 
