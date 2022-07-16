@@ -15,8 +15,8 @@ tags:
 ## Materialen op deze pagina
 
 - Aan de slag met {{<hl>}}BJOC{{</hl>}} in het Nederlands.
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- {{<hl>}}Woordenlijst{{</hl>}} met uitleg van begrippen.
+- {{<hl>}}(Sociale) gevolgen  {{</hl>}} van {{<hl>}}Computation{{</hl>}}
 
 ## Waarom Snap! als eerste programmeertaal?
 
@@ -33,6 +33,28 @@ Deze pagina is er om docenten snel op weg te helpen met het onderwijzen van Snap
 Er zitten in de cursus meerdere verwijzingen naar de Snap! interface. Met onderstaande overzicht zie je de namen van de verschillende velden.
 
 {{< figure src="Snap_interface_nl.png" >}}
+
+## Sociale gevolgen
+In het materiaal wordt er dieper ingegaan op deze (sociale) thema's. In ieder hoofdstuk is er aandacht voor de sociale gevolgen van computing. Dit zijn de themas die daarin worden behandeld.
+
+- Privacy & zoekmachines
+- Videogames & geweld
+- Ideeën 'bezitten' (auteursrechten en patenten)
+- Encryptie
+- Innovatie
+- Computers en gemeenschap
+- Sociale netwerken
+- Cyberpesten
+- Computers & oorlog
+- Computers & werk
+
+Bij al deze onderwerpen is ons doel prediking te vermijden; we zoeken naar alternatieve gezichtspunten. We gaan er bijvoorbeeld niet vanuit dat piraterij van auteursrechtelijk beschermde materiaal verkeerd is. xxx aangezien veel studenten het doen, proberen we eerlijke perspectieven te ontlokken over waarom het goed zou kunnen zijn, en overwegen alternatieve manieren om artiesten en schrijvers te ondersteunen. Zowel de studentenpagina's als de docentenhandleiding verwijzen naar provocerende lezingen over elk onderwerp.
+
+Over het algemeen hopen we studenten optimistisch te laten voelen over de voordelen van technologie, maar ook klaar om kritisch na te denken over specifieke technologie. We herinneren hen er ook aan dat de beslissingen over hoe een nieuwe technologie wordt gebruikt door mensen worden genomen, inclusief zijzelf als ze een carrière in de informatica nastreven, dus ze mogen zich niet hulpeloos voelen tegenover een veronderstelde technologische noodzaak.
+
+We gebruiken het uitstekende Blown to Bits als leerboek voor dit deel van de cursus. (Er is geen tekstboek voor de technische delen van de cursus, behalve het online materiaal dat we bieden.) Het boek is bedoeld voor volwassen lezers en zal vooral moeilijk zijn voor ESL-studenten, dus we gebruiken korte fragmenten en bespreken alternatieve presentaties in de docenten ' Gids. Net als de rest van het cursusmateriaal is dit boek gratis online verkrijgbaar, met een Creative Commons BY-NC-SA-licentie.
+
+Het boek is nu een paar jaar oud, dus we vullen het aan met actuele lezingen, op zoek naar onderwerpen die relevant zijn voor studenten. Studenten kiezen hun eigen onderwerpen om dieper in te studeren; zo spreken we een divers publiek aan. We beginnen de klasbijeenkomsten met 'Computing in the News', waarin items uit de krant van die ochtend worden gepresenteerd, één over het algemeen positief en één problematisch. Na enkele door docenten gekozen voorbeelden om het idee te illustreren, moedigen we docenten aan om de selectie van artikelen bij toerbeurt aan studenten toe te wijzen.
 
 {{< list_children >}}
 
