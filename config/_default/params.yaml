@@ -44,7 +44,7 @@ header:
 footer:
   copyright: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>
     notice:  '© {year} i&i. This work is licensed under {license}'
-    license:
+    license: by-nc-sa
       enable: true
       allow_derivatives: false
       share_alike: true
