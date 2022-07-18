@@ -3,18 +3,18 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: ✨ Met _BJOC-NL_ leer je in het Nederlands!
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
-    description:
-  - icon: video
+    name: Extra materialen
+    description: In de docentenhandleiding zitten extra opdrachten
+  - icon: flag
     icon_pack: fas
-    name: Video
+    name: Er zijn een aantal videos
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Blokprogrammeren
     description:
 ---
