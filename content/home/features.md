@@ -11,8 +11,8 @@ feature:
     description: In de docentenhandleiding zitten extra opdrachten
   - icon: flag
     icon_pack: fas
-    name: Al het lesmateriaal is in het Nederlands!
-    description:
+    name: Taal
+    description: Al het lesmateriaal is in het Nederlands!
   - icon: code
     icon_pack: fas
     name: Programmeren met Blokken
