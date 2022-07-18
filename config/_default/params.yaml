@@ -42,7 +42,7 @@ header:
 # Site footer
 
 footer:
-  copyright: '[![Netlify Status](https://api.netlify.com/api/v1/badges/87cf336b-5b1f-41c6-aaaf-4189c11c7f4a/deploy-status)](https://app.netlify.com/sites/bjc-nl/deploys)'
+  copyright: 
     notice: '© {year} i&i. This work is licensed under {license} <br>'
     license:
       enable: true
