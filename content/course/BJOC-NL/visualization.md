@@ -16,7 +16,7 @@ Learn how to visualize data with Plotly.
 
 ## Learn
 
-{{< youtube hSPmj7mK6ng >}}
+{{< youtube INiiTV7hN74 >}}
 
 ## Quiz
 

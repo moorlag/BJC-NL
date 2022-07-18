@@ -1,32 +1,17 @@
 ---
-title: Statistics
+title: Woordenschat
 date: '2021-01-01'
 type: book
 weight: 40
 math: true
 tags:
-  - Statistics
+  - Woordenschat
 ---
 
-Introduction to statistics for data science.
-
+Met deze oefeningen leren de leerlingen de woordenschat.
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
-## Learn
-
-The general form of the **normal** probability density function is:
-
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
-
-{{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
-{{< /callout >}}
+https://docs.google.com/document/d/1E-XnOg2cy5khc-UWR_Onfkn9VjxKQ1vfd02ELTmUCow/edit
 
 ## Quiz
 
