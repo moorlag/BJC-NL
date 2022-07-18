@@ -42,9 +42,8 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice:   <center>'© {year} i&i. This work is licensed under {license}
-  <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>'</center>
+  copyright: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>
+    notice:  '© {year} i&i. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
