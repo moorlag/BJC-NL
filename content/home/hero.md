@@ -16,7 +16,7 @@ cta:
   icon_pack: fas
   icon: user-graduate
 cta_alt:
-  url: /course/BJOC-NL/_index.md
+  url: https://bjc-nl.netlify.app/course/bjoc-nl/
   label: Docentenmaterialen!
   icon_pack: fas
   icon: user-graduate
