@@ -21,6 +21,8 @@ BJOC-NL sluit eveneens goed aan op [onze visie op Digitale Geletterdheid](https:
 ## Aan de slag!
 Tijdens i&i-online is er [een opname gemaakt van de eerste online workshop BJOC](https://ieni-forum.infvo.nl/t/bjoc-materialen/588/3). Daarnaast hebben wij op het forum ruimte voor vraag/antwoord. Leren door te doen; dus klik door [BJOC.nl](http://www.bjoc.nl/) om aan de slag te gaan! En nu? Leren door te doen, om die reden zou je kunnen starten met hoofdstuk 1.
 
+![](windmolen.png)
+
 - [Het klik-op-Alonzospel](https://bjoc-nl.github.io/hoofdstukken/hoofdstuk-1/H1L1P1.html)
 - [Kletsen en coderen](https://bjoc-nl.github.io/hoofdstukken/hoofdstuk-1/H1L2P1.html)
 - [Moderne kunst met veelhoeken](https://bjoc-nl.github.io/hoofdstukken/hoofdstuk-1/H1L3P1.html)
