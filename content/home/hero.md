@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 10
-title: The Beauty and Joy of Computing 🇳🇱
+title: Hoi, ik ben Alonzo en ik leer je programmeren!
 hero_media:  alonzo.png
 design:
   background:
-    gradient_angle: 0
+    gradient_angle: 90
     gradient_start: 'rgb(224,223,255)'
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
