@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Hoi, ik ben Alonzo en ik leer je programmeren!
+title: Hoi, ik ben Alonzo!
 hero_media:  alonzo.png
 design:
   background:
