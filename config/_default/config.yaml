@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Beauty and Joy of Computing' # Website name
+title: 'Hoi, ik ben Alonzo en ik leer je programmeren.' # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
