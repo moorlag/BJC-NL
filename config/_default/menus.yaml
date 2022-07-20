@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Cursus
-    weight: 20
-    identifier: Cursus
-  - name: BJOC-NL
+  #- name: Cursus
+  #  weight: 20
+  #  identifier: Cursus
+  - name: Docentenmateriaal
     PageRef: course/BJOC-NL/_index.md
-    weight: 10
-    parent: Cursus
-  - name: Robotics
-    PageRef: course/robotics/_index.md
     weight: 20
-    parent: Cursus
+  #  parent: Cursus
+#  - name: Robotics
+#    PageRef: course/robotics/_index.md
+#    weight: 20
+#    parent: Cursus
   - name: Blog
     PageRef: post/_index.md
     weight: 30
