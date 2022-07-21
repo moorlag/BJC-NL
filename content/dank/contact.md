@@ -9,21 +9,21 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
-subtitle:
+title: Dank!
+subtitle: Deze organisaties en personen hebben geholpen om BJOC te vertalen
 
-content:
+#content:
   # Contact (edit or remove options as required)
-  email: info@bjoc.nl
+#  email: info@bjoc.nl
   #appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: comments
-      icon_pack: fas
-      name: Naar het forum!
-      link: 'forum.ieni.org'
+#  contact_links:
+#    - icon: comments
+#      icon_pack: fas
+#      name: Naar het forum!
+#      link: 'forum.ieni.org'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+#  autolink: true
 
   # Email form provider
   #form:
@@ -37,3 +37,5 @@ content:
 design:
   columns: '1'
 ---
+
+The Beauty and Joy is mede mogelijk gemaakt door ...
