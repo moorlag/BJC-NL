@@ -57,3 +57,7 @@ Bekijk hier alle projecten en eindverslagen van NIRICT 2021.
 
 
 Link website: https://www.4tu.nl/nirict/{{< /spoiler >}}
+{{< spoiler text="Unsplash" >}}
+
+Photo by <a href="https://unsplash.com/@timmarshall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Marshall</a> on <a href="https://unsplash.com/s/photos/heart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+{{< /spoiler >}}
