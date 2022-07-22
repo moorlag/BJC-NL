@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: BJOC_eerste_meeting.jpeg
+    image: contact.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
