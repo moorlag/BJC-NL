@@ -43,7 +43,7 @@ header:
 
 footer:
   #text: '[![Netlify Status](https://api.netlify.com/api/v1/badges/9bc5c0e1-774c-420d-83be-f65b18a663fd/deploy-status)](https://app.netlify.com/sites/bjc-nl/deploys)'
-  copyright: '© {year} i&i. This work is licensed under {license}.'
+copyright: '© {year} i&i. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
