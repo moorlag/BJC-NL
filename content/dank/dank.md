@@ -38,6 +38,13 @@ design:
   columns: '1'
 ---
 The Beauty and Joy is mede mogelijk gemaakt door ...
+|  Naam |  Organisatie |  Website |
+|---|---|:---:|
+| Alexander Serebrenik |  TU Eindhoven |  [TU/e](https://www.win.tue.nl/~aserebre/) |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 {{< figure src="4TU-NIRICT-logo.jpg" >}}
 
