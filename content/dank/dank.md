@@ -41,7 +41,7 @@ design:
 
 | Naam  	|  Organisatie 	|   Website	|
 |:-:	|:-:	|:-:	|
-|   Alexander Serebrenik      	|    TU Eindhoven  	|  [TU/e](https://www.win.tue.nl/~aserebre/) 	|
+|   Alexander Serebrenik  |    TU Eindhoven  	|  [TU/e](https://www.win.tue.nl/~aserebre/) 	|
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
