@@ -26,14 +26,14 @@ Laat leerlingen een **retro e-card maken**. Een aantal richtlijnen die helpen om
 - Bevat **een thema**, duidelijk gemaakt met bijvoorbeeld afbeeldingen (zoals een feestdag, een sport, etc.)
 - Heeft uiterlijken voor sprites en het speelveld.
 - Bevat geen bugs.
-- Bevat een `uiterlijken`blok. Dit kan zijn:
-  - Een `herstart`blok dat de eCard reset naar het begin (dit reset bijvoorbeeld sprites, de pen en het speelveld)
+- Bevat een `uiterlijken` blok. Dit kan zijn:
+  - Een `herstart` blok dat de eCard reset naar het begin (dit reset bijvoorbeeld sprites, de pen en het speelveld)
   - Een ander zelfgemaakt blok dat ten minste 3 blokken bevat. Dit blok verandert bijvoorbeeld de achtergrond of verplaatst een sprite.
-- Maakt gebruik van een `herhaal tot`blok of `voor`blok.
+- Maakt gebruik van een `herhaal tot` blok of `voor` blok.
 - Bevat iets wat interactie met de gebruiker heeft. De gebruiker kan bijvoorbeeld op een knop klikken waarna iets gebeurt.
 - Bevat één van de twee onderstaande eigenschappen:
   - Geluid of muziek. (gebruikmakend van blokken uit het `Geluid`palet.)
-  - Het willekeurig getal tussen `... en ...`blok.
+  - Het willekeurig getal tussen `... en ...` blok.
 
 Als je het project afhebt, schrijf je een beschrijving van je programma in maximaal 100 woorden. Indien nodig, leg je uit hoe je het moet gebruiken. Deel hierna je beschrijving samen met een link naar je project met de leraar. De links kunnen via collections in een grote kaartenbak verzameld worden.
 
