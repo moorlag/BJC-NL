@@ -20,7 +20,7 @@ content:
     - icon: comments
       icon_pack: fas
       name: Naar het forum!
-      link: 'forum.ieni.org'
+      link: 'https://forum.ieni.org'
 
   # Automatically link email and phone or display as text?
   autolink: true
