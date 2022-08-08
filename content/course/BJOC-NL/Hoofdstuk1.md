@@ -38,29 +38,34 @@ Laat leerlingen een **retro e-card maken**. Een aantal richtlijnen die helpen om
 Als je het project afhebt, schrijf je een beschrijving van je programma in maximaal 100 woorden. Indien nodig, leg je uit hoe je het moet gebruiken. Deel hierna je beschrijving samen met een link naar je project met de leraar. De links kunnen via collections in een grote kaartenbak verzameld worden.
 
 ## Formatieve vragen
-Implementation Note: These questions are designed to provide a wide range of examples of formative assessment questions that can be asked related to the key ideas of each lab. It’s recommended that you use your knowledge of your students to choose a small number of questions for each lab and provide them to students as appropriate.
+Deze vragen kun je gebruiken om formatief de voortgang van leerlingen te monitoren. Als docent kun je het beste een keuze maken uit de vragen en deze geselecteerd aan te bieden.
 
-### Les 1: Click Alonzo Game
-Implementation Note: As the first lab is designed to hook students' interest in programming there it is recommended that you do not provide any assessment questions, formative or otherwise.
 
-### Les 2: Gossip
-- Think of a time you collaborated on a project. When was it, and what was that experience like?
-- Describe how you customized your program. Why did you make the choices that you did?
-- Describe the driver and navigator’s roles in pair programming.
-- List two things you should do as a good pair programmer.
-- What is a list? Give an example from the lab we started last class.
-- What is the difference between a sprite and a costume?
 
-### Les 3: Modern Art with Polygons
-- What are some examples of polygons? Have you ever seen them used in art?
-- Why is documentation important while coding?
-- Describe the differences in the code for drawing an asterisk with three branches versus the code for drawing an asterisk with 5 branches.
-- How do you make a block in Snap!?
-- List two ways you can organize your code to keep it neat and easy to read.
-- What input values would you put in your pinwheel block in order to draw an octagon?
-- What is abstraction? Give an example from a previous lab.
-- Define iteration. Give an example from this lab or another program you’ve written.
-- Write pseudocode for a script that would cause the sprite to say the following numbers: 5, 10, 15, 20, 25, 30.
+### Les 1: Het klik-op-Alonzospel
+Voor de eerste les zijn er geen formatieve vragen. Dat is een bewuste keuze geweest. Het doel van Les 1 is om leerlingen kennis te laten maken met Snap! en met de cursus.
+
+
+### Les 2: Kletsen en coderen
+- Denk eens terug aan een project waaraan je gewerkt hebt. Hoe was dat? Wat heb je geleerd?
+- Beschrijf hoe je een programma hebt aangepast. Welke keuzes maakte je? Denk eens aan een thema, of een praktische invulling.
+- Beschrijf de rollen van chauffeur en navigator voor het programmeren. Welke rol ligt je beter?
+- Noem een aantal voorbeelden van goed programmeerwerk
+- Wat is een lijst? Kun je er nog een voorbeeld van bedenken?
+- Wat is het verschil tussen een sprite en een kostuum?
+
+
+### Les 3: Moderne kunst met veelhoeken
+- Kun je een aantal veelhoeken benoemen? Heb je ze wel eens in kunstobjecten gezien?
+- Waarom is documentatie belangrijk tijdens het programmeren?
+- Beschrijf het verschil tussen een veelvlak met 3 armen en een veelvlak met 5 armen.
+- Hoe maak je een blok in Snap!?
+- Benoem twee manieren om je code overzichtelijk te houden
+- Welke waarde gebruik in het `molenblok` je voor het tekenen van een achthoek?
+- Wat is abstractie? Kun het toelichten met een voorbeeld?
+- Wat is iteratie? Kun je het toelichten met een voorbeeld?
+- Schrijf de pseudocode voor een script waarmee je sprite deze getallen zegt. 5, 10, 15, 20, 25, 30.
+
 
 ### Les 4: Protecting Your Privacy
 - What is digital privacy? What do you know about it already?
