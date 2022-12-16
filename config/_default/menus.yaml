@@ -25,8 +25,8 @@ main:
     PageRef: dank/index.md
     weight: 40
   - name: Licentie
-        PageRef: terms.md
-        weight: 50
+    PageRef: terms.md
+    weight: 50
   - name: Contact
     PageRef: contact/index.md
     weight: 60
