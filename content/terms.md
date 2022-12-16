@@ -1,10 +1,10 @@
 ---
 title: Voorwaarden van gebruik
 date: '2022-12-15T00:00:00+01:00'
-draft: false 
+draft: false
 share: false
 commentable: false
-editable: true
+editable: false
 
 # Optional header image (relative to `assets/media/` folder).
 header:
