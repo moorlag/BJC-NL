@@ -53,27 +53,3 @@ Er zitten in de cursus meerdere verwijzingen naar de Snap! interface. Met onders
 
 ## Sociale Gevolgen
 In ieder hoofdstuk van the Beauty and Joy of Computing zoeken we een evenwicht tussen het optimisme van technologie en een begrip van de beperkingen en het potentieel voor schade. Het boek is Engelstalig en kan daardoor als moeilijk ervaren worden. Een aantal opdrachten zijn goed klassikaal te doen. O.a. het verhaal van Tatyana is goed te volgen met enige begeleiding. [Meer over de Sociale Gevolgen](Socialegevolgen.html) lees je hier.
-
-## Beoordelen
-Why not grade more frequently?
-Any given student may find any particular lab challenging, and that can create enough anxiety without grade anxiety. And the goals of encouraging nontraditional CS students isn't helped by insisting that everyone learn at exactly the same speed.
-
-Because BJC students are always working in pairs and pairs are encouraged to talk to other pairs, the BJC classroom format allows students to help each other over the humps. But even with all these opportunities for support, any given students may not understand some lab until they've had time to go over it at home, too late for an end-of-period assessment.
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}

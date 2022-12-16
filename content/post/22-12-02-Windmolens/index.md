@@ -1,6 +1,6 @@
 ---
 title: Windmolens bouwen in Snap! Bouw je eigen windmolenpark
-date: 2020-12-02
+date: 2022-12-02
 ---
 
 Windmolens in Snap!
