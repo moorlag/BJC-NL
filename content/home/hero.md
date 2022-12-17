@@ -21,7 +21,7 @@ cta_alt:
   icon_pack: fas
   icon: user-graduate
 cta_note:
-  label: BJOC-nl is mede mogelijk gemaakt door <a href="www.ieni.org>vakvereniging i&i</a>
+  label: BJOC-nl is mede mogelijk gemaakt door [vakvereniging i&i](www.ieni.org)
 advanced:
   css_class: fullscreen
 ---
@@ -29,8 +29,8 @@ advanced:
 <br>
 
 Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱.
-<br>Op deze pagina vind je naast al het <a href="https://bjc-nl.netlify.app/course/bjoc-nl/">docentenmateriaal</a> ook een <a href="https://bjc-nl.netlify.app/post/">blog</a> over the Beauty and Joy of computing.
-<br> In de blogs wordt ingegaan op waarom programmeren zo'n belangrijke vaardigheid is en hoe je dit het beste kunt aanpakken.
+<br><br>Op deze pagina vind je naast al het <a href="https://bjc-nl.netlify.app/course/bjoc-nl/">docentenmateriaal</a> ook een <a href="https://bjc-nl.netlify.app/post/">blog</a> over the Beauty and Joy of computing.
+<br><br> In de blogs wordt ingegaan op waarom programmeren zo'n belangrijke vaardigheid is en hoe je dit het beste kunt aanpakken.
 
 <!--<a class="github-button" href="https://github.com/BJOC-NL/bjoc-nl.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">GitHub BJOC-NL</a><br>
 <!--<a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>-->
