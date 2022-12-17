@@ -31,6 +31,7 @@ advanced:
 Vanaf vandaag leer je in het Nederlands programmeren 🇳🇱.
 <br><br>Op deze pagina vind je naast al het <a href="https://bjc-nl.netlify.app/course/bjoc-nl/">docentenmateriaal</a> ook een <a href="https://bjc-nl.netlify.app/post/">blog</a> over the Beauty and Joy of computing.
 <br><br> In de blogs wordt ingegaan op waarom programmeren zo'n belangrijke vaardigheid is en hoe je dit het beste kunt aanpakken.
+<br>
 
 <!--<a class="github-button" href="https://github.com/BJOC-NL/bjoc-nl.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">GitHub BJOC-NL</a><br>
 <!--<a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>-->
