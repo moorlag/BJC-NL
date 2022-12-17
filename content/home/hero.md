@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Hoi, ik ben Alonzo!
-hero_media:  alonzo.png
+hero_media:  alonzo_dutch.svg
 design:
   background:
     gradient_angle: 90
