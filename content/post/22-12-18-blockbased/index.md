@@ -1,6 +1,6 @@
 ---
 title: Open AI over BJOC
-date: 2022-12-02
+date: 2022-18-02
 ---
 
 Waarom een Blockgebaseerde taal? (Door OpenAI)
