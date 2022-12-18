@@ -12,5 +12,6 @@ The course is designed to be engaging and interactive, with a focus on hands-on 
 
 One of the key goals of BJC is to make computer science accessible to a diverse group of students, including those who may not have had previous exposure to programming or computer science. The course is designed to be inclusive and welcoming, and aims to break down barriers that may prevent some students from pursuing a career in the field.
 
+In addition to introducing students to the fundamentals of computer science and programming, BJC also aims to inspire a love of learning and problem-solving. The course encourages students to think creatively and to approach problems in a logical and systematic way. It also encourages students to think about the ethical and societal implications of their work, and to consider the ways in which computer science can be used to make a positive impact on the world.
 
 Overall, De Schoonheid en Vreugde van het Programmeren is a fantastic resource for Dutch students who are interested in exploring the world of computer science and programming. Whether you are a beginner or have some previous experience, this course is sure to provide you with a solid foundation in the field and help you develop the skills and knowledge you need to succeed in your studies and career.
