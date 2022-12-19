@@ -65,8 +65,17 @@ Bekijk hier [alle projecten](https://www.4tu.nl/nirict/Projects/All_projects/) e
 
 
 
-Link website: https://www.4tu.nl/nirict/{{< /spoiler >}}
+[Meer over 4TU](https://www.4tu.nl/nirict/){{< /spoiler >}}
+
+{{< spoiler text="Het Bèta Outreach fonds" >}}
+
+Het Bèta Outreach fonds richt zich op financiering van landelijke outreach activiteiten voor primair en voortgezet onderwijs en het algemene publiek, onderwijsvernieuwing en de professionalisering van docenten op het gebied van natuurkunde, scheikunde, wiskunde, en/of informatica. Bij deze activiteiten is tenminste één universiteit betrokken. Voor het Bèta Outreach subsidieprogramma stellen de bètafaculteiten van de Nederlandse universiteiten 700.000 euro per jaar beschikbaar. Meer informatie is hier te vinden: [Outreach – Bètadecanen NL](https://betadecanen.nl/outreach/).
+{{< /spoiler >}}
+
 {{< spoiler text="Unsplash" >}}
 
 Photo by <a href="https://unsplash.com/@timmarshall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Marshall</a> on <a href="https://unsplash.com/s/photos/heart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 {{< /spoiler >}}
+
+
+ 
