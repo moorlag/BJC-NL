@@ -46,10 +46,10 @@ design:
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
-{{< figure src="4TU-NIRICT-logo.jpg" >}}
+
 
 {{< spoiler text="4TU.NIRICT" >}}
-
+{{< figure src="4TU-NIRICT-logo.jpg" >}}
 
 4TU.NIRICT is het Nederlands Instituut voor Onderzoek naar ICT en omvat al het ICT-onderzoek van de technische universiteiten in Nederland. ICT is een zeer breed vakgebied waarin 4TU.NIRICT zich richt op het raakvlak tussen Elektrotechniek en Informatica.
 
