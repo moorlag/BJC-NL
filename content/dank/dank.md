@@ -38,17 +38,7 @@ design:
   columns: '1'
 ---
 
-
-| Naam  	|  Organisatie 	|   Website	|
-|:-:	|:-:	|:-:	|
-|   Alexander Serebrenik  |    TU Eindhoven  	|  [TU/e](https://www.win.tue.nl/~aserebre/) 	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-
-
-{{< spoiler text="4TU.NIRICT" >}}
+{{< spoiler text="4TU.NIRICT via Alexander Serebrenik" >}}
 {{< figure src="4TU-NIRICT-logo.jpg" >}}
 
 4TU.NIRICT is het Nederlands Instituut voor Onderzoek naar ICT en omvat al het ICT-onderzoek van de technische universiteiten in Nederland. ICT is een zeer breed vakgebied waarin 4TU.NIRICT zich richt op het raakvlak tussen Elektrotechniek en Informatica.
