@@ -1,6 +1,6 @@
 ---
 title: Wat maakt BJOC speciaal?
-date: '2021-01-01'
+date: '2023-01-01'
 type: book
 weight: 40
 ---

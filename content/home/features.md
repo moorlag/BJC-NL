@@ -18,4 +18,4 @@ feature:
     name: Programmeren met Blokken
     description: Leer programmeren met programmeerblokken en voorkom dat het leren onderbroken wordt door syntaxproblemen.
 ---
-<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
+
