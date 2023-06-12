@@ -1,5 +1,5 @@
 ---
-title: Wat maakt BJOC speciaal?
+title: Blown to Bits boek
 date: '2023-06-12'
 type: book
 weight: 50
