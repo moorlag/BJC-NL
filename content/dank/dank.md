@@ -61,7 +61,7 @@ design:
 * Eelco Dijkstra
 * Maarten Sprenger
 * Ramon Moorlag
-
+{{< /spoiler >}}
 {{< spoiler text="Vertaalvrijwillgers" >}}
 * Marieke Huisman
 * Wendy Oude Nijeweme - d'Hollosy
@@ -75,6 +75,7 @@ design:
 * Iede Monster
 * Joek van Montfort
 * Emma Snoeijs
+{{< /spoiler >}}
 {{< spoiler text="4TU.NIRICT via Alexander Serebrenik" >}}
 {{< figure src="4TU-NIRICT-logo.jpg" >}}
 
