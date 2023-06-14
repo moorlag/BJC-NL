@@ -53,6 +53,7 @@ design:
 * Floor Jansen
 * Ivo Boers
 * Michael Kooltjes
+{{< /spoiler >}}
 
 {{< spoiler text="Kernontwikkelteam en conceptbewaking" >}}
 * Alexander Serebrenik
