@@ -37,7 +37,44 @@ subtitle: Deze organisaties en personen hebben geholpen om BJOC te vertalen
 design:
   columns: '1'
 ---
+{{< spoiler text="Leerlingen ds. Pierson College" >}}
+* Sterre Brouns
+* Esmee Wetzer
+* Roël Couwenberg
+* Tuyl Huiskamp
+* Yara van Kerkhof
+* Max van Grinsven
+* Levani Lutidze
+* Jens Köhler
+* Douk van Zonsbeek
+* Merlijn Brinks
+* Tim Dekkers
+* Dylan Dubach
+* Floor Jansen
+* Ivo Boers
+* Michael Kooltjes
 
+{{< spoiler text="Kernontwikkelteam en conceptbewaking" >}}
+* Alexander Serebrenik
+* Felienne Hermans
+* Casper Kole
+* Eelco Dijkstra
+* Maarten Sprenger
+* Ramon Moorlag
+
+{{< spoiler text="Vertaalvrijwillgers" >}}
+* Marieke Huisman
+* Wendy Oude Nijeweme - d'Hollosy
+* Sabine Verdult
+* Frans Peeters
+* Imke Alberts
+* Renske Weeda
+* Ansgar Fehnker
+* Jerfaas de Jong
+* Pauline Maas
+* Iede Monster
+* Joek van Montfort
+* Emma Snoeijs
 {{< spoiler text="4TU.NIRICT via Alexander Serebrenik" >}}
 {{< figure src="4TU-NIRICT-logo.jpg" >}}
 
